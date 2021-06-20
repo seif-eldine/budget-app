@@ -2,13 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
+The Budget app is a simple application you can use to calculate your incomes against your expenses, add different editable items to incomes or expenses tab, and see the calculated outcome.
+
+The application uses mathmatical operations, data binding and data sharing between components, and UI simple design, all built in Angular Framework.
+
+See the link if you want to use the application live : https://budgetapp-22.web.app/
+
+or follow the instructions below to download the application and use it on a local server. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Make sure to run **npm i** to install all packages needed.
 
 ## Build
 
